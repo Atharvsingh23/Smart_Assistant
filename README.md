@@ -18,8 +18,11 @@ An intelligent document assistant that reads PDFs, understands their content, ge
 🗂️ Project Structure
 File	Purpose
 app.py	Streamlit interface for interaction
+
 backend.py	Backend logic for summarization, QA, and reasoning
+
 requirements.txt	Python dependencies
+
 screenshot.png	Preview of the UI
 
 ⚙️ How It Works
